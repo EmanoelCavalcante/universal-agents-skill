@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "format": "Agent Skills",
+  "total": 17,
+  "categories": {
+    "contextualizacao": [
+      "contexto-profissional",
+      "contextualizacao-de-projeto",
+      "pesquisa-academica-orientada"
+    ],
+    "coding": [
+      "mentoria-programacao",
+      "backend-java-spring",
+      "depuracao-com-evidencias",
+      "implementacao-agil-controlada",
+      "testes-automatizados"
+    ],
+    "gerencia": [
+      "planejamento-tecnico",
+      "kanban-e-acompanhamento",
+      "automacoes-e-integracoes",
+      "documentacao-git-e-decisoes",
+      "comunicacao-e-prospeccao"
+    ],
+    "avaliacao": [
+      "revisao-critica-de-codigo",
+      "avaliacao-de-arquitetura",
+      "avaliacao-academica",
+      "auditoria-de-entrega"
+    ]
+  }
+}

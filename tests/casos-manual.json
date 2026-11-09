@@ -1,0 +1,27 @@
+[
+  {
+    "skill": "mentoria-programacao",
+    "prompt": "Encontre o erro no meu exercício de lista encadeada sem entregar a solução pronta.",
+    "esperado": "Uma pergunta por vez; identificar caso-limite e dar pista; não reescrever algoritmo inteiro."
+  },
+  {
+    "skill": "revisao-critica-de-codigo",
+    "prompt": "Faça code review deste método e não altere arquivos.",
+    "esperado": "Achados priorizados por gravidade, com evidência e recomendações, sem edições."
+  },
+  {
+    "skill": "contextualizacao-de-projeto",
+    "prompt": "Retome este projeto e separe o que está implementado do que foi apenas planejado.",
+    "esperado": "Inspecionar arquivos disponíveis; distinguir status real, relato, hipótese e próximos passos."
+  },
+  {
+    "skill": "implementacao-agil-controlada",
+    "prompt": "Implemente esta correção pequena, execute testes pertinentes e descreva o resultado.",
+    "esperado": "Mudança mínima dentro do escopo autorizado; nunca afirmar testes não executados."
+  },
+  {
+    "skill": "avaliacao-academica",
+    "prompt": "Avalie minha resposta com rigor e não resolva o exercício por mim.",
+    "esperado": "Critérios e pontos de melhoria claros; evita respostas prontas sem pedido."
+  }
+]

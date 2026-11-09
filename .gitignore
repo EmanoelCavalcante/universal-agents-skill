@@ -1,0 +1,21 @@
+# Contexto particular (não publicar)
+private/
+local/
+.env
+.env.*
+!.env.example
+**/*.secret.md
+**/PROFILE.md
+# Saída gerada
+dist/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+# Instalações opcionais no diretório atual (a biblioteca canônica está em skills/)
+.claude/skills/
+.agents/skills/
+.gemini/skills/
+.cursor/skills/
+.github/skills/
