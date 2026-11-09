@@ -60,8 +60,8 @@ O `SKILL.md` é portátil; a **descoberta, as permissões e a aplicação das sk
 ## Privacidade
 Arquivos em `private/` e `local/` **não são versionados**. Os contextos específicos dos projetos do pacote anterior foram preservados **localmente** em `private/projetos/`, mas não devem ser publicados sem revisão. O pacote completo disponibilizado localmente contém esses arquivos; verifique antes de compartilhar o ZIP. Veja [PRIVACIDADE.md](docs/PRIVACIDADE.md).
 
-## Contribuição e licença
-Consulte [CONTRIBUINDO.md](docs/CONTRIBUINDO.md) e [LICENCIAMENTO.md](docs/LICENCIAMENTO.md). Nenhuma licença pública foi escolhida automaticamente.
+## Contribuição
+Consulte [CONTRIBUINDO.md](docs/CONTRIBUINDO.md)
 
 ## Documentação oficial
 - https://agentskills.io/specification
